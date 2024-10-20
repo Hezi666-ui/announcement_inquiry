@@ -6,14 +6,14 @@ https://github.com/Hezi666-ui/announcement_inquiry/blob/main/image/%E6%9F%A5%E8%
 ### 其中after_end为fastapi实现，使用SQLite数据库。
 
 ### 进入after_end
-'''python
+```python
 
 python main.py
 
 
 ### front_end则是next.js实现
 
-'''javascript
+```javascript
 
 npm i
 
